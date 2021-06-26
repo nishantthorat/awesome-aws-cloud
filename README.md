@@ -1,4 +1,4 @@
-# Aweseome AWS Cloud Resourcs
+# Awesome AWS Cloud Resourcs
 
 A curated list of AWS Cloud Resources, for writing cloud applications and monitoring cloud applications.
 
